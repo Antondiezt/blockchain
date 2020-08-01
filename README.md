@@ -20,3 +20,5 @@ Public address of the key:   0x174b9E593a5Db5DC3DCD8263085C034415b65313
 - Once your custom network is ready and your nodes are initiated, you can send a transaction from the Node 1 account to Node 2 account and your nodes will mine the transaction
 
 - See screenshots for more details
+
+- Unauthorized sealing is causing that my nodes do not mine. I believe this is because the POA requires the assignment of an authorized sealer. I tried to add it using clique but it didn't work.
